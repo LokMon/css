@@ -6,5 +6,5 @@ vuepress
 TODOs.md
 .idea
 .vscode
-dist
+
 private-config.js
